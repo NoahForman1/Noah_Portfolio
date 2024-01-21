@@ -1,6 +1,6 @@
 # Noahs_Portfolio
 
-#[Project 1: Airbnbs in Seattle](https://github.com/NoahForman1/Noah_Portfolio/blob/main/Airbnb%20Full%20Project.twbx)
+# [Project 1: Airbnbs in Seattle](https://github.com/NoahForman1/Noah_Portfolio/blob/main/Airbnb%20Full%20Project.twbx)
 
 This is a project I did to help get a good standing on how to use Tableau, where I try to find what is the best kind of 
  house for an Airbnb in Seattle.
